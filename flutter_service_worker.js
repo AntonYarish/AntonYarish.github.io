@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "53d9e77879b995deac72071bb2f1137b",
+  "assets/AssetManifest.json": "19c6a02d150b73e8900aee941dc10262",
 "assets/assets/fonts/CustomIcons.ttf": "6ef1201c4aac814584aa6eba73e2fdc8",
 "assets/assets/fonts/OpenSans-Bold.ttf": "1025a6e0fb0fa86f17f57cc82a6b9756",
 "assets/assets/fonts/OpenSans-ExtraBold.ttf": "fb7e3a294cb07a54605a8bb27f0cd528",
@@ -12,6 +12,7 @@ const RESOURCES = {
 "assets/assets/fonts/OpenSans-SemiBold.ttf": "ba5cde21eeea0d57ab7efefc99596cce",
 "assets/assets/images/pokeball-icon.png": "71276b2db25292ddcca30040f725216c",
 "assets/assets/images/pokeball.png": "ab044126663c0a20be7d97d4dfc538ef",
+"assets/assets/images/readme-screenshot.png": "ee276a7752584d849501e676468c825d",
 "assets/assets/images/types/bug.png": "3a3b30b953371966beefd47dd15d0b4d",
 "assets/assets/images/types/dark.png": "2f95a74d173ef2188f2815b90cd9bebb",
 "assets/assets/images/types/dragon.png": "9770556108fd576ea103c05a59ba60bb",
@@ -32,9 +33,9 @@ const RESOURCES = {
 "assets/assets/images/types/water.png": "3d1266d4d2975a35a75e0bf3cfafa3f7",
 "assets/FontManifest.json": "32fdf4c86c3f03e92b974b09b1f6485a",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "febb92ba18912561c179faaa924958c8",
+"assets/NOTICES": "61d961ba0ec70053cadbd051b0c57a90",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"browserconfig.xml": "a0dea3417d07f1c91fcb63c23d1cdd4b",
+"browserconfig.xml": "086b2d118719cc7b032946c19448fa35",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/android-icon-144x144.png": "6992c07055cf589aae90b23d2082c009",
 "icons/android-icon-192x192.png": "01135537cc7cdbee5ee7dcf23748a2ba",
@@ -61,9 +62,9 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "131bb1d005e497f7bfc4f5bd82667275",
 "icons/ms-icon-310x310.png": "4d60227545655bb1f52549b6260d3a3e",
 "icons/ms-icon-70x70.png": "fb71d3ac9e321e6482c94d98419bbf8e",
-"index.html": "1656df41bac9795aa2fd62489fa42569",
-"/": "1656df41bac9795aa2fd62489fa42569",
-"main.dart.js": "51c50fe1d66c923ae8fb7c833858d444",
+"index.html": "575ca13af37d8864a96fb9e0e020c911",
+"/": "575ca13af37d8864a96fb9e0e020c911",
+"main.dart.js": "fd37321548575df75dfe2e2c2740facb",
 "manifest.json": "111f8adbae9b51439f248896ff7944fa",
 "version.json": "ba52da1500086c7209b42343dcf84534"
 };
